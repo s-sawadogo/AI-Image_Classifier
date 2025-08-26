@@ -1,10 +1,10 @@
-# AI-Resume-Critiquer
+# AI-Image-Classifier
 
 **Building AI Image Classifier from scratch**
 
 ## Overview :
 
-**An AI agent application that scan and analyse Resumes.**
+**An AI  application that classify images.**
 
 ## How to use this project :
 
@@ -48,8 +48,8 @@ uv run streamlit run main.py
 ## Tools :
 
 - **streamlit**
-- **pyPDF2**
-- **python-dotenv**
+- **opencv-python**
+- **tensorflow**
 
 **uv documentation :**
 
