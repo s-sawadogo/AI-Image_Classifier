@@ -2,11 +2,17 @@
 
 **Building AI Image Classifier from scratch**
 
-## Overview :
+## Description
 
 **An AI  application that classify images.**
 
-## How to use this project :
+## Demonstration
+
+![](assets/AI_Image_Classifier_1.gif)
+
+![](assets/AI_Image_Classifier_2.gif)
+
+## How to use this project ?
 
 
 **Creating and activating a virtual environment**
